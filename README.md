@@ -35,7 +35,7 @@ Security-focused engineer with hands-on experience in **24/7 SOC operations**, *
 |:---:|:---:|:---:|:---:|
 | ![Azure Sentinel](https://img.shields.io/badge/Azure%20Sentinel-0078D4?style=flat-square&logo=microsoft-azure) | ![Defender XDR](https://img.shields.io/badge/Microsoft%20Defender%20XDR-0078D4?style=flat-square) | ![Shuffle](https://img.shields.io/badge/Shuffle-FF6B6B?style=flat-square) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square) |
 | ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk) | ![Wazuh XDR](https://img.shields.io/badge/Wazuh%20XDR-005EB8?style=flat-square) | ![TheHive](https://img.shields.io/badge/TheHive-FF6B6B?style=flat-square) | ![Zeek](https://img.shields.io/badge/Zeek-4CAF50?style=flat-square) |
-| ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elastic) | ![Wazuh](https://img.shields.io/badge/Wazuh-005EB8?style=flat-square) | ![Cortex](https://img.shields.io/badge/Cortex-FF6B6B?style=flat-square) | ![Snort](https://img.shields.io/badge/Snort-FD4200?style=flat-square) |
+| ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elastic) |  | ![Cortex](https://img.shields.io/badge/Cortex-FF6B6B?style=flat-square) | ![Snort](https://img.shields.io/badge/Snort-FD4200?style=flat-square) |
 | ![Wazuh](https://img.shields.io/badge/Wazuh-005EB8?style=flat-square) | | ![n8n](https://img.shields.io/badge/n8n-FF6B35?style=flat-square) | ![Suricata](https://img.shields.io/badge/Suricata-4CAF50?style=flat-square) |
 
 ### Cloud & Infrastructure
