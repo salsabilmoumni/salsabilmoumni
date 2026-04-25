@@ -7,7 +7,6 @@
 [![Email](https://img.shields.io/badge/Email-salsabilmoumni2025%40gmail.com-red?style=flat-square&logo=gmail)](mailto:salsabilmoumni2025@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Salsabil%20Moumni-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/salsabil-moumni-02b463287)
 [![GitHub](https://img.shields.io/badge/GitHub-salsabilmoumni-black?style=flat-square&logo=github)](https://github.com/salsabilmoumni)
-[![Phone](https://img.shields.io/badge/Phone-%2B216%2029%20638%20204-green?style=flat-square&logo=whatsapp)](tel:+21629638204)
 
 </div>
 
