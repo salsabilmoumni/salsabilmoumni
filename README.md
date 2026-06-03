@@ -59,7 +59,7 @@ Bash
 ## 💼 Professional Experience
 
 ### 🔴 SOC Analyst @ DefensyLab
-**May 2025 – Sept 2025** | Full-Time
+**May 2025 – Sept 2025** | Part-Time
 
 | Metric | Achievement |
 |--------|-------------|
